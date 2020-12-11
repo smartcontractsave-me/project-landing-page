@@ -30,6 +30,9 @@ html, body{
 	font-weight: 900;
 }
 
+.title-wrapper {
+	background-color: #000000;
+}
 
 .flexcolcen{
 	display: flex;
